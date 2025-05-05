@@ -2,6 +2,9 @@
 
 Um chatbot criado para o Challenge #1 - Experiência Conversacional FURIA. Desenvolvido em Python usando a biblioteca PyTelegramBotAPI.
 
+## 🔗 Acesse o Bot
+👉 [https://t.me/FofuriaBot](https://t.me/FofuriaBot)
+
 ## 💡 Funcionalidades
 
 - 🎯 Quiz interativo com perguntas sobre a FURIA
